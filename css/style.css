@@ -36,3 +36,7 @@ body {
     width: 50%;
     height: auto;
 }
+
+.set-height-200 {
+    height: 195px;
+}
