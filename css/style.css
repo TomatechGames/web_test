@@ -40,3 +40,13 @@ body {
 .set-height-200 {
     height: 195px;
 }
+
+.row-break {
+    display: none;
+}
+
+@media screen and (max-width: 575px) {
+    .row-break {
+        display: inline;
+    }
+}
