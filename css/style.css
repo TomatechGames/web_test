@@ -45,6 +45,13 @@ body {
     display: none;
 }
 
+td,
+th {
+    border: 2px solid black;
+    text-align: left;
+    width: 150px;
+}
+
 @media screen and (max-width: 575px) {
     .row-break {
         display: inline;
